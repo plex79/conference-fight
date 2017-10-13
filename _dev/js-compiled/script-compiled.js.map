@@ -1,0 +1,1 @@
+{"version":3,"sources":["../js/script.jsx"],"names":["$","document","ready","maciek","console","log"],"mappings":";;AAAAA,EAAEC,QAAF,EAAYC,KAAZ,CAAkB,YAAW;AAC5B,KAAMC,SAAS,QAAf;AACAC,SAAQC,GAAR,CAAYF,MAAZ;AACA,CAHD","file":"script-compiled.js","sourcesContent":["$(document).ready(function() {\r\n\tconst maciek = 'Maciek';\r\n\tconsole.log(maciek);\r\n});\r\n\r\n"]}
